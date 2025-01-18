@@ -11,4 +11,4 @@ Quyidagi bosqichlarni bajarib o‘rnating:
 2. Kutbxonlarni o'rnatish
    ```bash
    pip install -r requirements.txt
-3. .env file yarating va o'zgaruvchilarni telegram developer tools dan oling api_hash va api_id phone kiriting:
+3. .env file yarating va o'zgaruvchilarni telegram developer tools dan oling API_HASH va API_ID va PHONE kiriting:
