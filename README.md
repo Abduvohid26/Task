@@ -16,4 +16,5 @@ Quyidagi bosqichlarni bajarib o‘rnating:
    ```bash
     python app.py
 Sizdan Phone va code kiritishni so'raladi  shunda phone kiritib tastiqlash code ni telegram orqali olasiz:
+
 5. Va sizni auth qilgandan so'ng sizning ma'lumotlarngiz terminalda ko'rinadi va uni telegram session record qilib olinadi va har safar auth qilishni talab qilmaydi.
