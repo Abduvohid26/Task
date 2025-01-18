@@ -9,3 +9,6 @@ Quyidagi bosqichlarni bajarib o‘rnating:
    ```bash
    git clone https://github.com/abduvohid26/task.git
    cd task
+2. Kutbxonlarni o'rnatish
+   ```bash
+   pip install -r requirements.txt
