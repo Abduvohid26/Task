@@ -3,8 +3,7 @@ from environs import env
 env.read_env()
 api_id = env.int('API_ID')
 api_hash = env.str('API_HASH')
-
-phone = "+998882042629"
+phone = env.str('PHONE')
 
 client = TelegramClient('session_name', api_id, api_hash)
 
